@@ -34,5 +34,8 @@ Here are some ideas to get you started:
 <hr>
 <h3>GitHub Stats :star2: </h3>
 
-[![card](https://github-readme-stats.vercel.app/api?username=tawan-silva&theme=tokyonight&show_icons=true)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=tawan-silva&hide=html&layout=compact&theme=tokyonight)](https://github.com/tawan-silva/)
+<div>
+  <a href="https://github.com/tawan-silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tawan-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawan-silva&hide=html&layout=compact&theme=tokyonight"/>
+</div>
