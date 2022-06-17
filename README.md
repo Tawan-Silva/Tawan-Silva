@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/tawan-silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tawan-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawan-silva&hide=html&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tawan-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawan-Silva&hide=html&layout=compact&theme=tokyonight"/>
 </div>
