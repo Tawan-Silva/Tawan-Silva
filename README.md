@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3>Social :iphone: </h3>
 
 <div align="center">
@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3>Tecnologias e Ferramentas :computer: </h3>
 
 
@@ -52,7 +53,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
 </div>
-<hr>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3>GitHub Stats :star2: </h3>
 
 <div align="center">
@@ -60,3 +63,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tawan-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawan-Silva&hide=html&layout=compact&theme=tokyonight"/>
 </div>
+ 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tawan-Silva&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+ 
+
