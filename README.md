@@ -66,6 +66,5 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawan-Silva&hide=html&layout=compact&theme=tokyonight"/>
 </div>
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tawan-Silva&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
- 
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=Tawan-Silva&theme=react-dark&hide_border=true&area=true)
 
