@@ -104,5 +104,3 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tawan-Silva&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tawan-Silva&hide=html&layout=compact&theme=tokyonight"/>
 </div>
- 
- ![Contribution](https://activity-graph.herokuapp.com/graph?username=Tawan-Silva&theme=react-dark&hide_border=true&area=true)
